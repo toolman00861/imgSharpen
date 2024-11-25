@@ -24,9 +24,9 @@
 实验3-1.tif
 
 ![image](https://github.com/user-attachments/assets/e43f0ea3-35db-4da2-9743-c3f89e1f482a) ![image](https://github.com/user-attachments/assets/7ba0102c-aee6-47c6-acd0-a5ef19b63f3e)  
-      原图            基本拉普拉斯变换  
+      原图                  基本拉普拉斯变换  
 ![image](https://github.com/user-attachments/assets/a1480daf-ad28-4424-b93c-1b2e8628e123) ![image](https://github.com/user-attachments/assets/2f9d9f26-8cca-43b8-bc65-b05b6f7f73ac)  
-拉普拉斯变形      拉普拉斯-高斯  
+拉普拉斯变形                拉普拉斯-高斯  
 可以看到三种锐化算法都能正确的完成任务。  
 其中拉普拉斯变形效果最好，对边缘检测效果好，也不会过于敏感。  
 而基本拉普拉斯效果不如变形。  
